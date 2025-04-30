@@ -1,0 +1,18 @@
+baseURL = 'http://jsgoti.com/'
+languageCode = 'en-us'
+title = 'Just some guy on the internet'
+
+theme = "paper"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+    [markup.goldmark.extensions]
+      footnote = true

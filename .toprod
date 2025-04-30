@@ -1,0 +1,20 @@
+:
+
+
+: ${github:=/run/media/stevei/plnkx/2019-github}
+thisdir=${github}/jsgoti.com.src
+
+targetDir=$(echo $thisdir | sed -e 's/.src$//')
+
+cd $targetDir || {
+    echo "Error: could not cd to: $targetDir"
+    exit 1
+}
+
+git add -A .
+git commit -m " - incremental checkin."
+git push
+
+
+echo Done
+exit 0
