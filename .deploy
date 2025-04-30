@@ -12,6 +12,8 @@ thisdir=${github}/jsgoti.com.src
 
 targetDir=$(echo $thisdir | sed -e 's/.src$//')
 
+echo "targetDir=$targetDir"
+
 cd $thisdir || {
     echo "Error: could not cd to: $thisdir"
     exit 1
@@ -65,7 +67,7 @@ cd $thisdir || {
     exit 1
 }
 
-rm -rf public/
+# rm -rf public/
 
 echo "Now cd $targetDir and check in..."
 
