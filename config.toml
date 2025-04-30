@@ -1,6 +1,6 @@
 baseURL = 'http://jsgoti.com/'
 languageCode = 'en-us'
-title = 'Just some guy on the internet'
+title = 'JSGoti'
 
 theme = "paper"
 
