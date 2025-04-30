@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Just some guy on the internet</title>
+    <title>Posts on JSGoti</title>
     <link>http://jsgoti.com/posts/</link>
-    <description>Recent content in Posts on Just some guy on the internet</description>
+    <description>Recent content in Posts on JSGoti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Apr 2025 17:18:34 -0700</lastBuildDate><atom:link href="http://jsgoti.com/posts/index.xml" rel="self" type="application/rss+xml" />
