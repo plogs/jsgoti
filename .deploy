@@ -1,5 +1,4 @@
 :
-
 # https://gohugo.io/getting-started/usage/
 
 # After running hugo server for local web development, you need to do a
@@ -7,7 +6,8 @@
 # site. You may then deploy your site by copying the public/ directory
 # to your production web server.
 
-: ${github:=/run/media/stevei/plnkx/2019-github}
+: "${github:?github variable not set}"
+
 thisdir=${github}/jsgoti.com.src
 
 targetDir=$(echo $thisdir | sed -e 's/.src$//')
@@ -28,7 +28,8 @@ test -d $targetDir || {
 
 
 # cleanup
-test -d public && rm -rf public
+echo "Remove 'public/'"
+rm -rf public
 sleep 1
 
 echo "Run hugo to populate the public directory..."
