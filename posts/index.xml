@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on JSGoti</title>
-    <link>http://jsgoti.com/posts/</link>
+    <link>https://jsgoti.com/posts/</link>
     <description>Recent content in Posts on JSGoti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Apr 2025 17:18:34 -0700</lastBuildDate><atom:link href="http://jsgoti.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Apr 2025 17:18:34 -0700</lastBuildDate><atom:link href="https://jsgoti.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic Economics</title>
-      <link>http://jsgoti.com/posts/basic-economics/</link>
+      <link>https://jsgoti.com/posts/basic-economics/</link>
       <pubDate>Tue, 29 Apr 2025 17:18:34 -0700</pubDate>
       
-      <guid>http://jsgoti.com/posts/basic-economics/</guid>
+      <guid>https://jsgoti.com/posts/basic-economics/</guid>
       <description>&amp;ldquo;Economics is an analysis of cause-and-effect relationships in an economy. Its purpose is to discern the consequences of various ways of allocating scarce resources which have alternative uses. It has nothing to say about social philosophy or moral values, any more than it has anything to say about humor or anger.&amp;rdquo;1
 Thomas Sowell, Basic Economics: A Common Sense Guide to the Economy, 5th ed. (2015), pp. 64-65.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
