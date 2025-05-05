@@ -1,0 +1,32 @@
+:
+clear
+tmpfile=/tmp/edit.tmp
+
+
+test -d content || {
+    echo "Error: no 'content' directory found"
+    exit 1
+}
+
+count=0
+
+find content/ -type f -print |
+while read fn
+do
+    count=$((count + 1))
+    echo "$count  $fn"
+
+done > $tmpfile
+
+cat $tmpfile
+
+echo
+echo -n "Edit #: "
+
+read num
+test "$num" = "" || {
+    exec vim $(awk "/^${num}/ {print \$2}" $tmpfile)
+}
+
+rm -f $tmpfile
+exit 0

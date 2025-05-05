@@ -1,5 +1,5 @@
 ---
-title: "Basic Economics"
+title: "Basic Economics - Why Rich People Get More Money"
 date: 2025-04-29T17:18:34-07:00
 draft: false
 ---
