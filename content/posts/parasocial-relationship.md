@@ -1,7 +1,7 @@
 ---
 title: "Beware the Parasocial Relationship"
 date: 2025-05-04T13:23:30-07:00
-draft: true
+draft: false
 ---
 
 ## Beware the parasocial relationship

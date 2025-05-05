@@ -1,7 +1,7 @@
 ---
 title: "Why Trans Rights Are Not Gay"
 date: 2025-05-04T16:40:50-07:00
-draft: true
+draft: false
 ---
 
 # Gay rights
