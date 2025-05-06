@@ -4,16 +4,8 @@ date: 2025-05-04T17:28:15-07:00
 draft: false
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
-<style>
-  body {
-    font-family: 'Libre Baskerville', serif;
-  }
-</style>
 
-
-
-## Pete Buttigieg Explains DEI to Regular Folks
+## And I explain to you why DEI is mostly bad
 
 I like Pete Buttigieg; I would likely vote for him if he runs for
 president in 2028, but I disagree with him about Diversity, Equity,
@@ -22,9 +14,11 @@ and Inclusion (DEI).
 I'm writing this because I want democrats to stop screwing up so
 badly. I think the Republican party has lost it's way, and Democrats
 are our only hope. But to quote Jeff Daniels' character from the
-series The Newsroom, "You know why people don't
-like liberals? Cause they lose. If liberals are so fucking smart, how
-come they lose so god damn always?"[^1]
+series [The
+Newsroom](https://en.wikipedia.org/wiki/The_Newsroom_(American_TV_series)),
+"You know why people don't like liberals? Cause they lose. If
+liberals are so fucking smart, how come they lose so god damn
+always?"[^1]
 
 I want Democrats to stop screwing up. How do they screw up?
 
@@ -39,13 +33,17 @@ Regular Folks[^2]
 
 "First of all, DEI stands for diversity, equity, and inclusion, right?"
 
-"So to me we start by thinking okay what's the opposite of those
+"So to me we start by thinking okay, what's the opposite of those
 things?"
 
 "The opposite of diversity is uniformity, right?"
 
 
-<div style='margin-left: 2em; padding: 1em; background-color: white;'>
+<!--
+----------------------------------------------------------------------
+-->
+
+<div class="myreply">
 
   Uh, no -- not necessarily. First we have to ask what exactly is
   meant by `diversity'? Does diversity in this context mean it's
@@ -70,39 +68,46 @@ things?"
 
   The usual and obvious counter example to 'diversity' are the
   players in the NBA (National Basketball Association). 70% of NBA
-  players are Black (or African American). Does we need more Asians
-  and Native Americans on our basketball teams in the name of
-  diversity? I don't think so. Why would skin color, shoe size, or
-  social-economic status matter when playing sports? And if it
-  doesn't matter when shooting baskets on the basketball court, why
-  would it matter when tightening bolts on a factory assembly line,
-  or when pouring coffee at Starbucks?
+  players are Black (or African American). Do we need more Asians and
+  Native Americans on our basketball teams in the name of diversity?
+  I don't think so. Why would skin color, shoe size, or sexual
+  orientation matter when shooting a freethrow? And if it doesn't
+  matter when shooting a freethrow, then why would it matter when
+  tightening bolts on a factory assembly line, or when pouring coffee
+  at Starbucks?
 
-  I think when DEI proponents say 'diversity' that's shorthand for
-  'social engineering.' They want to fix society's discrimination
-  problem, and forced diversity is their proposed way to do that. But
-  there's very little rhyme or reason to the proposed solution. Not
-  to mention the cost of giving someone an advantage because they're
-  Black, or White, or Asian, or gay, or whatever. The whole point of
-  working towards a non-discriminatory society is to stop treating
-  people by their accidental and mostly irrelevant group
-  characteristics, and, instead, treat everyone as an individual.
+  I think when DEI proponents say 'diversity' that's actually
+  shorthand for 'social engineering.' They want to fix society's
+  discrimination problem, and forced diversity is their proposed way
+  to do that. But there's very little rhyme or reason to the proposed
+  solution. Not to mention the cost of giving someone an advantage
+  because they're Black, or White, or Asian, or gay, or whatever. The
+  whole point of working towards a non-discriminatory society is to
+  stop treating people by their accidental and mostly irrelevant
+  group characteristics, and, instead, treat everyone as an
+  individual.
 
 </div>
 
 "The opposite of equity is inequity."
 
-<div style='margin-left: 2em; padding: 1em; background-color: white;'>
+<!--
+----------------------------------------------------------------------
+-->
+
+<div class="myreply">
 
   It's true that the opposite of equity is inequity, just as the
-  opposite of fair is unfair. But what seems to be wanted here with
-  DEI is not fairness, as in "everyone plays by the same rules," but
-  rather, "equity means things should be equal."
+  opposite of fair is unfair. But what seems to be wanted by DEI is
+  not fairness, as in "everyone plays by the same rules," but rather,
+  equity as in, "equal outcomes."
 
   For example, if SOMEGROUP MEMBERS are 5% of the population, then
   DEI proponents presume that in an 'equitable' society we would
-  expect to see 5% of SOMEGROUP MEMBERS in JOBS, POSITIONS, or
-  WHATEVER. But why this type of distribution should be expected is
+  expect to see 5% of SOMEGROUP MEMBERS distributed proportionally
+  throughout the workforce.
+
+  But why this type of distribution should be expected is assumed but
   never explained. Why do we expect all GROUPS to be equally
   proportionally distributed?
 
@@ -113,39 +118,72 @@ things?"
   Culture, for example, plays a significant part in outcomes (again,
   statistically speaking).
 
-  For example, the daily study time for Asian students (e.g., China)
-  is as much as 11 hours. Whereas American students study for a
-  whopping 1-2 hours. Regardless of the percentage of the population,
-  which group do you think will do better on knowledge tests?
+  For example, the usual study time for Asian students an be as high
+  as 10 hours per day. Whereas American students study for a whopping
+  1-2 hours. Regardless of the percentage of the population, which
+  group do you think will do better on knowledge tests?
 
   Does it follow, then, that if the number of Asian students with
   highly technical and great paying jobs exceeds the proportional
   distribution of American students with highly technical and great
   paying jobs, that that's somehow 'inequitable'? Do we need to fix
-  society because Asians do better then Whites?
+  society because when Asian kids grow up they do better then White
+  kids?
 
-  These different senses of 'equity' are often described as the
-  difference between "equality of opportunity" and "equality of
-  outcome".
+  These different definitons of 'equity' are often described as the
+  difference between "equal opportunity" and "equal outcome".
 
-  Equality of opportunity is the very definition of fairness:
-  everyone plays by the same rules, every one gets a fair chance.
-  Equality of outcome, on the other hand, is social engineering writ
-  large. Equality of outcome adherents basically want to play god;
-  they want to fix society to be the way it should be. There are two
-  problems with social engineering. First, not everyone agrees on
-  what the fix should be. And second, sometimes solutions have
-  unintended side effects, which then create even bigger problems.
+  Equal opportunity is the very definition of fairness: everyone
+  plays by the same rules, every one gets a fair chance. Equal
+  outcome, on the other hand, is social engineering writ large.
+  Equal outcome adherents basically want to play god; they want
+  to fix society to be the way it should be.
+
+  There are several problems with 'equal outcome.' First, not
+  everyone agrees there is a problem to be solved. Second, not
+  everyone agrees on the best way to fix the problem. And third,
+  sometimes the best of intentioned solutions have unforeseen side
+  effects resulting in even bigger problems.
 
 </div>
 
 "And the opposite of inclusion is exclusion."
 
 
+<!--
+----------------------------------------------------------------------
+-->
+
+<div class="myreply">
+
+  This is the one part that DEI technically gets correct.
+
+  Yes, we do not want to <em>exclude</em> anyone unfairly. But the
+  opposite of exclusion (i.e., inclusion), can also be taken to
+  extremes, which may be even worse. Exclusion is doing a bad thing
+  for bad reasons; over-including is doing a bad thing for good
+  reasons, thus blinding ourselves to the harm being down behind a
+  patina of moral good.
+
+  For example, as previously mentioned, we don't want to force Asians
+  to be included in the NBA just because Asians are proportionally
+  underrepresented population-wise.
+
+</div>
 
 
 "And I don't know a lot of people who think we'd be better off if our
 lives had more uniformity, inequity, and exclusion, right?"
+
+
+
+<div class="myreply">
+  Maybe you should get out more.
+
+  Roughly half of the country voted for the anti-DEI candidate in 2024.
+
+</div>
+
 
 "But I think part of why people have questions about it, that I
 respect, is they're not sure if this is they're worried about
@@ -161,9 +199,39 @@ reasons. Sexuality, right?"
 "Like a lot of different reasons, and it's about making sure that what
 we do going forward is fair."
 
+<!--
+----------------------------------------------------------------------
+-->
+
+<div class="myreply">
+
+  Yes, Pete, people have questions because they're worried about
+  fairness. If by fairness we mean <em>everyone plays by the same
+  rules</em>, then it doesn't seem fair that someone with black skin
+  color [to use the American slavery example], who was never ever a
+  slave, somehow gets a seat at the table ahead of someone else with
+  white skin color, who was never ever a slave owner -- just because
+  of their skin color.
+
+  There are not an infinite number of seats at the table. Resources
+  are always limited -- time, money, employees. If employers could
+  hire everyone, then 'everybody gets a seat at the table.' But
+  that's not reality. So we have to make choices. How do we choose?
+  Some people feel that using skin color as a criteria is a decidedly
+  unfair and hence bad way to choose.
+
+  Given two identically qualified candidates, one White and one
+  Black, it would seem <em>more fair</em> to decide between them by
+  simply flipping a coin, as opposed to prefering one skin color (or
+  race or religion or sexuality or whatever) over another skin color,
+  especially when one's skin color is not something one chooses, and
+  when one's skin color has nothing to do with the job at hand.
+
+</div>
+
 "And this can be an economic issue, too."
 
-"You look at something like redlinining. A lot of homeowners, families
+"You look at something like redlining. A lot of homeowners, families
 would be homeowners, especially black families, couldn't get homes in
 certain neighborhoods where the property value started to go up, so
 even if that happened to a family, I don't know 50 years ago, their
@@ -176,6 +244,25 @@ started a long time ago. Maybe nobody alive today is responsible for
 some of the injustice that has shaped what it's like to live in this
 country right now, but all of us now are responsible for doing
 something about it."
+
+
+<div class="myreply">
+
+Sure, Pete, let's do something about it. But let's not do stupid
+things about it.
+
+The English proverb, "Don't cry over spilt milk," was first recorded
+in the 17th century.
+
+Today, it seems, DEI not only wants to cry over past spilt milk, it
+wants to use past injustices to justify spilling new milk today; as
+if spilling new milk today can magically "unspill" the milk already
+lost.
+
+No amount of whining or virtue signaling will bring it back. What do
+we do instead? Clean it up and move on.
+
+</div>
 
 
 <!--
