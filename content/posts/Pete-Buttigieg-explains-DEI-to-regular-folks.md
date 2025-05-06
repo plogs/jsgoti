@@ -7,10 +7,16 @@ draft: false
 
 ## And I explain to you why DEI is mostly wrong
 
-I like [Pete
-Buttigieg](https://en.wikipedia.org/wiki/Pete_Buttigieg). I will
-likely vote for him if he runs for president in 2028, but I disagree
-with him about Diversity, Equity, and Inclusion (DEI).
+I like [Pete Buttigieg](https://en.wikipedia.org/wiki/Pete_Buttigieg).
+I will likely vote for him if he runs for president in 2028, but I
+disagree with him about Diversity, Equity, and Inclusion (DEI).
+
+
+<center>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pete_Buttigieg%2C_Secretary_of_Transportation.jpg/250px-Pete_Buttigieg%2C_Secretary_of_Transportation.jpg' style='max-width: 80%; height: auto; display: block; margin-bottom: 0.25em;' alt="Pete Buttigieg">
+</center>
+
+
 
 I'm writing this because I want democrats to stop screwing up so
 badly. I think the Republican party has lost its way, which leaves
@@ -189,7 +195,11 @@ lives had more uniformity, inequity, and exclusion, right?"
 
   Roughly half of the country voted for the anti-DEI candidate in 2024.
 
-  I don't think DEI means what you think they think it means.[^inconceivable]
+  <center style='padding-bottom: 0.25em;'>
+  <img src='/images/inconceivable.png' style='max-width: 80%; height: auto; display: block; margin-bottom: 0.25em;' alt='inconceivable'>
+
+  I don't think DEI means what <em>you think they think</em> it means.[^inconceivable]
+  </center>
 
 </div>
 
@@ -328,7 +338,7 @@ something about it."
   That's why I think DEI is mostly wrong.
 
   Of course I could be mistaken. If so, please Democrats, explain it
-  better. For the good of the country.
+  to me. For the good of the country.
 
 </div>
 
