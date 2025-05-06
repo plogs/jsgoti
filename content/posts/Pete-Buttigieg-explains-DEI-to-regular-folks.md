@@ -196,7 +196,7 @@ lives had more uniformity, inequity, and exclusion, right?"
   Roughly half of the country voted for the anti-DEI candidate in 2024.
 
   <center style='padding-bottom: 0.25em;'>
-  <img src='/images/inconceivable.png' style='max-width: 80%; height: auto; display: block; margin-bottom: 0.25em;' alt='inconceivable'>
+  <img src='/images/inconceivable.png' style='max-width: 90%; height: auto; display: block; margin-bottom: 0.25em;' alt='inconceivable'>
 
   I don't think DEI means what <em>you think they think</em> it means.[^inconceivable]
   </center>
