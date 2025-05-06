@@ -163,12 +163,13 @@ things?"
 <div class="myreply">
   This is the one part that DEI technically gets correct.
 
-  Yes, we do not want to <em>exclude</em> anyone unfairly. But the
-  opposite of exclusion (i.e., inclusion), can also be taken to
-  extremes, which may be even worse. Exclusion is doing a bad thing
-  for bad reasons; over-<em>including</em> is doing a bad thing for good
-  reasons, thus blinding ourselves to the harm being done because
-  it's hidden behind a patina of moral good.
+  Yes, we do not want to <em>exclude</em> anyone unfairly. That's
+  what equal opportunity means. But the opposite of exclusion (i.e.,
+  inclusion), can also be taken to extremes, which may be even worse.
+  Exclusion is doing a bad thing for bad reasons;
+  over-<em>including</em> is doing a bad thing for good reasons, thus
+  blinding ourselves to the harm being done behind the patina of
+  moral good.
 
   For example, as previously mentioned, we don't want to force Asians
   to be included in the NBA just because Asians are proportionally
@@ -188,7 +189,7 @@ lives had more uniformity, inequity, and exclusion, right?"
 
   Roughly half of the country voted for the anti-DEI candidate in 2024.
 
-  I don't think DEI means what you think they think it means.
+  I don't think DEI means what you think they think it means.[^inconceivable]
 
 </div>
 
@@ -339,6 +340,7 @@ https://www.imdb.com/title/tt2289479/characters/nm0001099
 
 [^3]: https://www.youtube.com/watch?v=bx62pk3kwf8
 
+[^inconceivable]: https://www.youtube.com/watch?v=D9MS2y2YU_o
 
 
 
