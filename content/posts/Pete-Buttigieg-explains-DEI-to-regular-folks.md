@@ -13,7 +13,7 @@ disagree with him about Diversity, Equity, and Inclusion (DEI).
 
 
 <center>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pete_Buttigieg%2C_Secretary_of_Transportation.jpg/250px-Pete_Buttigieg%2C_Secretary_of_Transportation.jpg' style='max-width: 80%; height: auto; display: block; margin-bottom: 0.25em;' alt="Pete Buttigieg">
+<img src='/images/Pete_Buttigieg.jpg' style='max-width: 80%; height: auto; display: block; margin-bottom: 0.25em;' alt="Pete Buttigieg">
 </center>
 
 
