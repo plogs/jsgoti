@@ -37,7 +37,7 @@ Newsroom](https://en.wikipedia.org/wiki/The_Newsroom_(American_TV_series)):[^2]
 I want Democrats to stop losing so god damn always.
 
 Here, for example, is how Pete Buttigieg Explains DEI to Regular
-Folks[^3]
+Folks[^folks]
 
 <!--
 ----------------------------------------------------------------------
@@ -345,12 +345,13 @@ something about it."
 [^1]: Good acting, excellent writing, a demonstration of the
 power of storytelling. "The Newsroom - America is not the greatest country in the world anymore..." https://www.youtube.com/watch?v=wTjMqda19wk 4:48
 
-[^2]: Jeff Daniels plays Will McAvoy
+[^2]: QUOTES: Jeff Daniels plays Will McAvoy
 https://www.imdb.com/title/tt2289479/characters/nm0001099
 
-[^3]: https://www.youtube.com/watch?v=bx62pk3kwf8
+[^folks]: Pete Buttigieg explains the purpose of DEI to regular folks https://www.youtube.com/watch?v=bx62pk3kwf8
 
-[^inconceivable]: https://www.youtube.com/watch?v=D9MS2y2YU_o
+[^inconceivable]: The Princess Bride - Inconceivable! (1987) 
+https://www.youtube.com/watch?v=D9MS2y2YU_o
 
 
 
