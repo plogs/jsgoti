@@ -4,6 +4,13 @@ date: 2025-05-04T17:28:15-07:00
 draft: false
 ---
 
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+<style>
+  body {
+    font-family: 'Libre Baskerville', serif;
+  }
+</style>
+
 
 
 ## Pete Buttigieg Explains DEI to Regular Folks
@@ -37,97 +44,102 @@ things?"
 
 "The opposite of diversity is uniformity, right?"
 
-    Uh, no -- not necessarily. First we have to ask what exactly is meant
-    by `diversity'? Does diversity in this context mean it's somehow
-    better to hire or work with people with different skin color,
-    different sexual orientations, different shoe sizes, different
-    social-economic backgrounds, different heights, different IQs?
-    What's the criteria -- and what makes the criteria relevant --
-    for deciding which characteristics are diverse-worthy?
 
-    Context matters.
+<div style='margin-left: 2em; padding: 1em; background-color: white;'>
 
-    When it comes to hiring someone for a job, the opposite of
-    diversity might be 'color blind'.
+  Uh, no -- not necessarily. First we have to ask what exactly is
+  meant by `diversity'? Does diversity in this context mean it's
+  somehow better to hire or work with people with different skin
+  color, different sexual orientations, different shoe sizes,
+  different social-economic backgrounds, different heights, different
+  IQs? What's the criteria -- and what makes the criteria relevant --
+  for deciding which characteristics are diverse-worthy?
 
-    And in some situations diversity is a weakness, not a strength.
 
-    For example, anyone who has dealt with Customer Support from a
-    non-native English speaker knows the importance of clear
-    communication. Sometimes I just want to say, "Oh my gosh,
-    please... give me more uniformity!"
+  Context matters.
 
-    The usual and obvious counter example to 'diversity' are the
-    players in the NBA (National Basketball Association). 70% of NBA
-    players are Black (or African American). Does we need more Asians
-    and Native Americans on our basketball teams in the name of
-    diversity? I don't think so. Why would skin color, shoe size, or
-    social-economic status matter when playing sports? And if it
-    doesn't matter when shooting baskets on the basketball court, why
-    would it matter when tightening bolts on a factory assembly line,
-    or when pouring coffee at Starbucks?
+  When it comes to hiring someone for a job, the opposite of
+  diversity might be 'color blind'.
 
-    I think when DEI proponents say 'diversity' that's shorthand for
-    'social engineering.' They want to fix society's discrimination
-    problem, and forced diversity is their proposed way to do that.
-    But there's very little rhyme or reason to the proposed solution.
-    Not to mention the cost of giving someone an advantage because
-    they're Black, or White, or Asian, or gay, or whatever. The whole
-    point of working towards a non-discriminatory society is to stop
-    treating people by their accidental and mostly irrelevant group
-    characteristics, and, instead, treat everyone as an individual.
+  And in some situations diversity is a weakness, not a strength.
 
+  For example, anyone who has dealt with Customer Support from a
+  non-native English speaker knows the importance of clear
+  communication. Sometimes I just want to say, "Oh my gosh, please...
+  give me more uniformity!"
+
+  The usual and obvious counter example to 'diversity' are the
+  players in the NBA (National Basketball Association). 70% of NBA
+  players are Black (or African American). Does we need more Asians
+  and Native Americans on our basketball teams in the name of
+  diversity? I don't think so. Why would skin color, shoe size, or
+  social-economic status matter when playing sports? And if it
+  doesn't matter when shooting baskets on the basketball court, why
+  would it matter when tightening bolts on a factory assembly line,
+  or when pouring coffee at Starbucks?
+
+  I think when DEI proponents say 'diversity' that's shorthand for
+  'social engineering.' They want to fix society's discrimination
+  problem, and forced diversity is their proposed way to do that. But
+  there's very little rhyme or reason to the proposed solution. Not
+  to mention the cost of giving someone an advantage because they're
+  Black, or White, or Asian, or gay, or whatever. The whole point of
+  working towards a non-discriminatory society is to stop treating
+  people by their accidental and mostly irrelevant group
+  characteristics, and, instead, treat everyone as an individual.
+
+</div>
 
 "The opposite of equity is inequity."
 
-    It's true that the opposite of equity is inequity, just as the
-    opposite of fair is unfair. But what seems to be wanted here with
-    DEI is not fairness, as in "everyone plays by the same rules,"
-    but rather, "equity means things should be equal."
+<div style='margin-left: 2em; padding: 1em; background-color: white;'>
 
-    For example, if SOMEGROUP MEMBERS are 5% of the population, then
-    DEI proponents presume that in an 'equitable' society we would
-    expect to see 5% of SOMEGROUP MEMBERS in JOBS, POSITIONS, or
-    WHATEVER. But why this type of distribution should be expected is
-    never explained. Why do we expect all GROUPS to be equally
-    proportionally distributed?
+  It's true that the opposite of equity is inequity, just as the
+  opposite of fair is unfair. But what seems to be wanted here with
+  DEI is not fairness, as in "everyone plays by the same rules," but
+  rather, "equity means things should be equal."
 
-    One reason GROUPS might not be equally proportionally distributed
-    is because -- statistically speaking -- different groups have
-    different strengths and weaknesses.
+  For example, if SOMEGROUP MEMBERS are 5% of the population, then
+  DEI proponents presume that in an 'equitable' society we would
+  expect to see 5% of SOMEGROUP MEMBERS in JOBS, POSITIONS, or
+  WHATEVER. But why this type of distribution should be expected is
+  never explained. Why do we expect all GROUPS to be equally
+  proportionally distributed?
 
-    Culture, for example, plays a significant part in outcomes
-    (again, statistically speaking).
+  One reason GROUPS might not be equally proportionally distributed
+  is because -- statistically speaking -- different groups have
+  different strengths and weaknesses.
 
-    For example, the daily study time for Asian students (e.g.,
-    China) is as much as 11 hours. Whereas American students study
-    for a whopping 1-2 hours. Regardless of the percentage of the
-    population, which group do you think will do better on knowledge
-    tests?
+  Culture, for example, plays a significant part in outcomes (again,
+  statistically speaking).
 
-    Does it follow, then, that if the number of Asian students with
-    highly technical and great paying jobs exceeds the proportional
-    distribution of American students with highly technical and great
-    paying jobs, that that's somehow 'inequitable'? Do we need to fix
-    society because Asians do better then Whites?
+  For example, the daily study time for Asian students (e.g., China)
+  is as much as 11 hours. Whereas American students study for a
+  whopping 1-2 hours. Regardless of the percentage of the population,
+  which group do you think will do better on knowledge tests?
 
-    These different senses of 'equity' are often described as the
-    difference between "equality of opportunity" and "equality of
-    outcome".
+  Does it follow, then, that if the number of Asian students with
+  highly technical and great paying jobs exceeds the proportional
+  distribution of American students with highly technical and great
+  paying jobs, that that's somehow 'inequitable'? Do we need to fix
+  society because Asians do better then Whites?
 
-    Equality of opportunity is the very definition of fairness:
-    everyone plays by the same rules, every one gets a fair chance.
-    Equality of outcome, on the other hand, is social engineering
-    writ large. Equality of outcome adherents basically want to play
-    god; they want to fix society to be the way it should be. There
-    are two problems with social engineering. First, not everyone
-    agrees on what the fix should be. And second, sometimes solutions
-    have unintended side effects, which then create even bigger
-    problems.
+  These different senses of 'equity' are often described as the
+  difference between "equality of opportunity" and "equality of
+  outcome".
+
+  Equality of opportunity is the very definition of fairness:
+  everyone plays by the same rules, every one gets a fair chance.
+  Equality of outcome, on the other hand, is social engineering writ
+  large. Equality of outcome adherents basically want to play god;
+  they want to fix society to be the way it should be. There are two
+  problems with social engineering. First, not everyone agrees on
+  what the fix should be. And second, sometimes solutions have
+  unintended side effects, which then create even bigger problems.
+
+</div>
 
 "And the opposite of inclusion is exclusion."
-
-
 
 
 
