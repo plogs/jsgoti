@@ -5,25 +5,28 @@ draft: false
 ---
 
 
-## And I explain to you why DEI is mostly bad
+## And I explain to you why DEI is mostly wrong
 
-I like Pete Buttigieg; I would likely vote for him if he runs for
-president in 2028, but I disagree with him about Diversity, Equity,
-and Inclusion (DEI).
+I like [Pete
+Buttigieg](https://en.wikipedia.org/wiki/Pete_Buttigieg). I will
+likely vote for him if he runs for president in 2028, but I disagree
+with him about Diversity, Equity, and Inclusion (DEI).
 
 I'm writing this because I want democrats to stop screwing up so
-badly. I think the Republican party has lost it's way, and Democrats
-are our only hope. But to quote Jeff Daniels' character from the
-series [The
-Newsroom](https://en.wikipedia.org/wiki/The_Newsroom_(American_TV_series)),
-"You know why people don't like liberals? Cause they lose. If
-liberals are so fucking smart, how come they lose so god damn
-always?"[^1]
+badly. I think the Republican party has lost its way, which leaves
+Democrats as our only hope. Unfortunately, the Democratic party (and
+seemingly America[^1]) is in sad shape. To quote from Jeff Daniels'
+character in the American TV series [The
+Newsroom](https://en.wikipedia.org/wiki/The_Newsroom_(American_TV_series)):[^2]
 
-I want Democrats to stop screwing up. How do they screw up?
+    "You know why people don't like liberals? Cause they lose. If
+    liberals are so fucking smart, how come they lose so god damn
+    always?"
 
-Well, here, for example, is how Pete Buttigieg Explains DEI to
-Regular Folks[^2]
+I want Democrats to stop losing so god damn always.
+
+Here, for example, is how Pete Buttigieg Explains DEI to Regular
+Folks[^3]
 
 <!--
 ----------------------------------------------------------------------
@@ -71,8 +74,8 @@ things?"
   players are Black (or African American). Do we need more Asians and
   Native Americans on our basketball teams in the name of diversity?
   I don't think so. Why would skin color, shoe size, or sexual
-  orientation matter when shooting a freethrow? And if it doesn't
-  matter when shooting a freethrow, then why would it matter when
+  orientation matter when shooting a free throw? And if it doesn't
+  matter when shooting a free throw, then why would it matter when
   tightening bolts on a factory assembly line, or when pouring coffee
   at Starbucks?
 
@@ -118,7 +121,7 @@ things?"
   Culture, for example, plays a significant part in outcomes (again,
   statistically speaking).
 
-  For example, the usual study time for Asian students an be as high
+  For example, the usual study time for Asian students can be as high
   as 10 hours per day. Whereas American students study for a whopping
   1-2 hours. Regardless of the percentage of the population, which
   group do you think will do better on knowledge tests?
@@ -130,7 +133,7 @@ things?"
   society because when Asian kids grow up they do better then White
   kids?
 
-  These different definitons of 'equity' are often described as the
+  These different definitions of 'equity' are often described as the
   difference between "equal opportunity" and "equal outcome".
 
   Equal opportunity is the very definition of fairness: everyone
@@ -178,7 +181,7 @@ lives had more uniformity, inequity, and exclusion, right?"
 
 
 <div class="myreply">
-  Maybe you should get out more.
+  Pete, maybe you should get out more.
 
   Roughly half of the country voted for the anti-DEI candidate in 2024.
 
@@ -222,7 +225,7 @@ we do going forward is fair."
 
   Given two identically qualified candidates, one White and one
   Black, it would seem <em>more fair</em> to decide between them by
-  simply flipping a coin, as opposed to prefering one skin color (or
+  simply flipping a coin, as opposed to preferring one skin color (or
   race or religion or sexuality or whatever) over another skin color,
   especially when one's skin color is not something one chooses, and
   when one's skin color has nothing to do with the job at hand.
@@ -239,6 +242,46 @@ kids are living with the consequences of that now because their
 family has less wealth because they were kept out of a neighborhood
 where property values were growing, right?"
 
+<!--
+----------------------------------------------------------------------
+-->
+<div class="myreply">
+
+  Success in life is due to many things, but a high level assessment
+  would likely include these four factors: circumstances, genetics,
+  effort, and luck.
+
+  If you're born rich, generally you do better. If you're born tall
+  or beautiful, you generally do better. If your culture encourages
+  you to work hard, you'll likely do better than someone in similar
+  circumstances who works less hard. And then there's luck, which
+  trumps all.
+
+  What responsibility do people today have for events of the past,
+  when people today had no control over what happened in the
+  past? None.
+
+  Do we want to work towards making things more fair, in the sense of
+  treating everyone equally? Yes. That's why we erase redlining and
+  jettison Jim Crow laws.
+
+  Are there still bigots, racists, and homophobes. To be sure, and
+  there probably always will be; humans are weird and diverse!
+
+  Nevertheless, one's unlucky heritage is not a good enough excuse
+  for penalizing innocents in the present.
+
+  So you weren't born rich. You're short and not too attractive. You
+  watch TV instead of study. Your black parents couldn't get a home
+  in a certain neighborhood. Guess what, you're unlucky.
+  Welcome to the human race.
+
+  Will you succeed?
+
+  That's up to you. Any excuse will do.
+
+</div>
+
 "And so part of it's the idea that some of these things may have
 started a long time ago. Maybe nobody alive today is responsible for
 some of the injustice that has shaped what it's like to live in this
@@ -246,6 +289,9 @@ country right now, but all of us now are responsible for doing
 something about it."
 
 
+<!--
+----------------------------------------------------------------------
+-->
 <div class="myreply">
 
 Sure, Pete, let's do something about it. But let's not do stupid
@@ -256,11 +302,13 @@ in the 17th century.
 
 Today, it seems, DEI not only wants to cry over past spilt milk, it
 wants to use past injustices to justify spilling new milk today; as
-if spilling new milk today can magically "unspill" the milk already
-lost.
+if spilling new milk today will magically "unspill" the milk of the
+past.
 
-No amount of whining or virtue signaling will bring it back. What do
-we do instead? Clean it up and move on.
+No amount of whining or virtue signaling can redo the past. What do
+we do instead? In the case of slavery, we clean up and move on, which
+is what we've been trying to do ever since the Civil War, the
+deadliest war in American history.
 
 </div>
 
@@ -270,21 +318,19 @@ we do instead? Clean it up and move on.
 -->
 
 
+<div class="myreply">
+  That's why I think DEI is mostly wrong. What do you think?
 
+  Am I wrong?
+</div>
 
+[^1]: Good acting, excellent writing, a demonstration of the
+power of storytelling. "The Newsroom - America is not the greatest country in the world anymore..." https://www.youtube.com/watch?v=wTjMqda19wk 4:48
 
-
-
-
-
-
-
-
-
-[^1]: Jeff Daniels plays Will McAvoy
+[^2]: Jeff Daniels plays Will McAvoy
 https://www.imdb.com/title/tt2289479/characters/nm0001099
 
-[^2]: https://www.youtube.com/watch?v=bx62pk3kwf8
+[^3]: https://www.youtube.com/watch?v=bx62pk3kwf8
 
 
 
