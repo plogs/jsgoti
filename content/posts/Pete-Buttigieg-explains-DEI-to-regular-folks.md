@@ -19,9 +19,14 @@ seemingly America[^1]) is in sad shape. To quote from Jeff Daniels'
 character in the American TV series [The
 Newsroom](https://en.wikipedia.org/wiki/The_Newsroom_(American_TV_series)):[^2]
 
-    "You know why people don't like liberals? Cause they lose. If
-    liberals are so fucking smart, how come they lose so god damn
-    always?"
+
+<div style='margin-left: 2em; margin-right: 2em;'>
+
+  "You know why people don't like liberals? Cause they lose.<br>
+  If liberals are so fucking smart, how come they lose so god damn
+  always?"
+
+</div>
 
 I want Democrats to stop losing so god damn always.
 
@@ -47,14 +52,13 @@ things?"
 -->
 
 <div class="myreply">
-
-  Uh, no -- not necessarily. First we have to ask what exactly is
-  meant by `diversity'? Does diversity in this context mean it's
-  somehow better to hire or work with people with different skin
-  color, different sexual orientations, different shoe sizes,
-  different social-economic backgrounds, different heights, different
-  IQs? What's the criteria -- and what makes the criteria relevant --
-  for deciding which characteristics are diverse-worthy?
+  Uh, no -- not necessarily. First, what exactly is meant by
+  `diversity'? Does diversity in this context mean it's somehow
+  better to hire or work with people with different skin color,
+  different sexual orientations, different shoe sizes, different
+  social-economic backgrounds, different heights, different IQs?
+  What's the criteria -- and what makes the criteria relevant -- for
+  deciding which characteristics are diverse-worthy?
 
 
   Context matters.
@@ -99,7 +103,6 @@ things?"
 -->
 
 <div class="myreply">
-
   It's true that the opposite of equity is inequity, just as the
   opposite of fair is unfair. But what seems to be wanted by DEI is
   not fairness, as in "everyone plays by the same rules," but rather,
@@ -158,15 +161,14 @@ things?"
 -->
 
 <div class="myreply">
-
   This is the one part that DEI technically gets correct.
 
   Yes, we do not want to <em>exclude</em> anyone unfairly. But the
   opposite of exclusion (i.e., inclusion), can also be taken to
   extremes, which may be even worse. Exclusion is doing a bad thing
-  for bad reasons; over-including is doing a bad thing for good
-  reasons, thus blinding ourselves to the harm being down behind a
-  patina of moral good.
+  for bad reasons; over-<em>including</em> is doing a bad thing for good
+  reasons, thus blinding ourselves to the harm being done because
+  it's hidden behind a patina of moral good.
 
   For example, as previously mentioned, we don't want to force Asians
   to be included in the NBA just because Asians are proportionally
@@ -181,9 +183,12 @@ lives had more uniformity, inequity, and exclusion, right?"
 
 
 <div class="myreply">
-  Pete, maybe you should get out more.
+  You don't know a lot of people who think we'd be better off if our
+  lives had more uniformity, inequity, and exclusion?
 
   Roughly half of the country voted for the anti-DEI candidate in 2024.
+
+  I don't think DEI means what you think they think it means.
 
 </div>
 
@@ -207,21 +212,23 @@ we do going forward is fair."
 -->
 
 <div class="myreply">
-
   Yes, Pete, people have questions because they're worried about
   fairness. If by fairness we mean <em>everyone plays by the same
   rules</em>, then it doesn't seem fair that someone with black skin
-  color [to use the American slavery example], who was never ever a
-  slave, somehow gets a seat at the table ahead of someone else with
-  white skin color, who was never ever a slave owner -- just because
-  of their skin color.
+  color [to use the American slavery example], who was <em>never</em>
+  ever a slave, somehow gets a seat at the table <em>ahead</em> of
+  someone else with white skin color, who was never ever a slave
+  owner.
 
-  There are not an infinite number of seats at the table. Resources
-  are always limited -- time, money, employees. If employers could
-  hire everyone, then 'everybody gets a seat at the table.' But
-  that's not reality. So we have to make choices. How do we choose?
-  Some people feel that using skin color as a criteria is a decidedly
-  unfair and hence bad way to choose.
+  <b>The biggest DEI misfire</b> is probably this.
+
+  There are not <em>an infinite number of seats</em> at the table.
+  Resources are always limited -- time, money, employees. If
+  employers could hire everyone, then sure, 'everybody gets a seat at
+  the table.' But that's not possible, it's not reality. So we have
+  to make choices. How do we choose? Some people feel that using skin
+  color as a criteria is a decidedly unfair and hence bad way to
+  choose.
 
   Given two identically qualified candidates, one White and one
   Black, it would seem <em>more fair</em> to decide between them by
@@ -246,9 +253,8 @@ where property values were growing, right?"
 ----------------------------------------------------------------------
 -->
 <div class="myreply">
-
-  Success in life is due to many things, but a high level assessment
-  would likely include these four factors: circumstances, genetics,
+  Success in life is due to many things, but at a high level we can
+  say it includes these four things: circumstances, genetics,
   effort, and luck.
 
   If you're born rich, generally you do better. If you're born tall
@@ -272,9 +278,9 @@ where property values were growing, right?"
   for penalizing innocents in the present.
 
   So you weren't born rich. You're short and not too attractive. You
-  watch TV instead of study. Your black parents couldn't get a home
-  in a certain neighborhood. Guess what, you're unlucky.
-  Welcome to the human race.
+  watch TV instead of studying for a test. Your black parents
+  couldn't get a home in a certain neighborhood. Guess what, you're
+  unlucky. Welcome to the human race.
 
   Will you succeed?
 
@@ -293,22 +299,21 @@ something about it."
 ----------------------------------------------------------------------
 -->
 <div class="myreply">
+  Sure, Pete, let's do something about it. But let's not do stupid
+  things about it.
 
-Sure, Pete, let's do something about it. But let's not do stupid
-things about it.
+  The English proverb, "Don't cry over spilt milk," was first
+  recorded in the 17th century.
 
-The English proverb, "Don't cry over spilt milk," was first recorded
-in the 17th century.
+  Today, it seems, DEI not only wants to cry over past spilt milk, it
+  wants to use past injustices to justify spilling new milk today; as
+  if spilling new milk today will magically "unspill" the milk of the
+  past.
 
-Today, it seems, DEI not only wants to cry over past spilt milk, it
-wants to use past injustices to justify spilling new milk today; as
-if spilling new milk today will magically "unspill" the milk of the
-past.
-
-No amount of whining or virtue signaling can redo the past. What do
-we do instead? In the case of slavery, we clean up and move on, which
-is what we've been trying to do ever since the Civil War, the
-deadliest war in American history.
+  No amount of whining or virtue signaling can redo the past. What do
+  we do instead? In the case of slavery, we clean up and move on,
+  which is what we've been trying to do ever since the Civil War, the
+  deadliest war in American history.
 
 </div>
 
@@ -319,9 +324,11 @@ deadliest war in American history.
 
 
 <div class="myreply">
-  That's why I think DEI is mostly wrong. What do you think?
+  That's why I think DEI is mostly wrong.
 
-  Am I wrong?
+  Of course I could be mistaken. If so, please Democrats, explain it
+  better. For the good of the country.
+
 </div>
 
 [^1]: Good acting, excellent writing, a demonstration of the
