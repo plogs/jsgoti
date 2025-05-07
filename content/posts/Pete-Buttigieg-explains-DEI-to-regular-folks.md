@@ -174,8 +174,8 @@ things?"
   inclusion), can also be taken to extremes, which may be even worse.
   Exclusion is doing a bad thing for bad reasons;
   over-<em>including</em> is doing a bad thing for good reasons, thus
-  blinding ourselves to the harm being done behind the patina of
-  moral good.
+  blinding ourselves to the harm being done under the guise of moral
+  good.
 
   For example, as previously mentioned, we don't want to force Asians
   to be included in the NBA just because Asians are proportionally
@@ -264,9 +264,9 @@ where property values were growing, right?"
 ----------------------------------------------------------------------
 -->
 <div class="myreply">
-  Success in life is due to many things, but at a high level we can
-  say it includes these four things: circumstances, genetics,
-  effort, and luck.
+  Success in life depends on many things, but still we can talk about
+  four contributing factors: circumstances, genetics, effort, and
+  luck.
 
   If you're born rich, generally you do better. If you're born tall
   or beautiful, you generally do better. If your culture encourages
@@ -279,11 +279,12 @@ where property values were growing, right?"
   past? None.
 
   Do we want to work towards making things more fair, in the sense of
-  treating everyone equally? Yes. That's why we erase redlining and
-  jettison Jim Crow laws.
+  treating everyone equally? Yes. That's why we strive to eliminate
+  redlining and jettison Jim Crow laws.
 
-  Are there still bigots, racists, and homophobes. To be sure, and
-  there probably always will be; humans are weird and diverse!
+  Are there still bigots and racists and homophobes in our midst. To
+  be sure, and there probably always will be. Humans are weird and
+  diverse!
 
   Nevertheless, one's unlucky heritage is not a good enough excuse
   for penalizing innocents in the present.
@@ -338,7 +339,7 @@ something about it."
   That's why I think DEI is mostly wrong.
 
   Of course I could be mistaken. If so, please Democrats, explain it
-  to me. For the good of the country.
+  to me. For the sake of the country.
 
 </div>
 
