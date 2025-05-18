@@ -19,7 +19,8 @@ It is believed that Clovis people crossed the [Bering Land
 Bridge](https://en.wikipedia.org/wiki/Beringia) from Siberia and
 moved south through an ice-free corridor into the central U.S., thus
 becoming the first inhabitants of North America, approximately 12,800
-years ago.
+years ago. (See also [Peopling of the
+Americas](https://en.wikipedia.org/wiki/Peopling_of_the_Americas).)
 
 Clovis culture pre-dates our modern concept of land ownership, thus
 Clovis land could never have been legally ceded or given freely.
