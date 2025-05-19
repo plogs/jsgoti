@@ -57,9 +57,6 @@ past was violent and unforgiving.
 
  * Violence between Native American tribes took many forms.[^violence]
 
- * Raids were often conducted to steal horses, take captives, or exact
-   revenge for past offenses.[^raids]
-
  * War captives were executed in ritual ways, sometimes involving
    torture, as a form of spiritual justice or communal healing.[^war]
 
