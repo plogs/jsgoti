@@ -9,9 +9,11 @@ In many organizations it's now fashionable to begin presentations
 with an _indigenous land acknowledgment_, usually something along
 these lines:
 
-    "We would like to begin by acknowledging that we are in
-    ___________, the ancestral and unceded territory of the ________
-    People."
+<div style='margin-left: .5em; margin-right: .5em; padding: 1em; background-color: #ffffcc; font-family: monospace;'>
+"We would like to begin by acknowledging that we are in
+___________, the ancestral and unceded territory of the ________
+People."
+</div>
 
 The stated goal of these acknowledgments is to promote a "greater
 public consciousness of Native sovereignty and cultural
@@ -80,10 +82,10 @@ manage relations.[^peace]
 Modern humans evolved in Africa around 200,000--300,000 years ago.
 Technically, all humans are migrants. None are indigenous.
 
-However, we _can_ distinguish communities that existed autonomously,
+However, we _can_ distinguish communities that existed autonomously
+(e.g., the 574 federally recognized tribes still in existence today),
 with their own social, political, and economic systems, before
 outsiders arrived.
-
 
 
 Unfortunately, many of the 'land acknowledgements' given to promote
