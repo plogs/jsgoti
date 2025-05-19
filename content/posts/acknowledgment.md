@@ -1,5 +1,5 @@
 ---
-title: "Land Acknowledgment?"
+title: "Indigenous Land Acknowledgment"
 date: 2025-05-17T17:25:41-07:00
 draft: false
 ---
@@ -9,7 +9,7 @@ In many organizations it's now fashionable to begin presentations
 with an _indigenous land acknowledgment_, usually something along
 these lines:
 
-<div style='margin-left: .5em; margin-right: .5em; padding: 1em; background-color: #ffffcc; font-family: monospace;'>
+<div style='margin-left: .5em; margin-right: .5em; padding: 1em; background-color: #ffcc99; font-family: monospace;'>
 "We would like to begin by acknowledging that we are in
 ___________, the ancestral and unceded territory of the ________
 People."
