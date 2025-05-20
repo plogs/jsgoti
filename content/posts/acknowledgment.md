@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-In many organizations it's now fashionable to begin presentations
-with an _indigenous land acknowledgment_, usually something along
-these lines:
+In many organizations and events it's now fashionable to begin with
+an _indigenous land acknowledgment_, usually something along these
+lines:
 
 <div style='margin-left: .5em; margin-right: .5em; padding: 1em; background-color: #ffcc99; font-family: monospace;'>
 "We would like to begin by acknowledging that we are in
@@ -15,45 +15,39 @@ ___________, the ancestral and unceded territory of the ________
 People."
 </div>
 
-The stated goal of these acknowledgments is to promote a "greater
+The ostensible goal of these acknowledgments is to promote a "greater
 public consciousness of Native sovereignty and cultural
 rights."[^neefusa]
 
+But strangely, these acknowledgments seem always a bit myopic. If
+we're going to acknowledge ancestral and unceded territory of
+modern-day North America, how far
+back do we look? To the 
+[Clovis
+People](https://en.wikipedia.org/wiki/Clovis_culture)?
 
-But strangely, these acknowledgments are always myopic. They look
-only a few generations back. True ancestral acknowledgement reaches
-back at least to the [Clovis
-People](https://en.wikipedia.org/wiki/Clovis_culture).
-
-(Note: The "Clovis First" hypothesis is now
-[debated](https://bigthink.com/the-past/ice-free-corridor-clovis-americas/).
-They may not have been the first.)
-
-The Clovis culture refers to one of the earliest known prehistoric
-Native American cultures in North America, recognized primarily for
-its distinctive stone tools. It is named after the town of Clovis,
-New Mexico, where such artifacts were first identified in the 1930s.
-
-It was hypothesized that Clovis people crossed the [Bering Land
+Clovis refers to the earliest[^debated] known prehistoric
+Native American culture. One theory is that the
+Clovis people crossed the [Bering Land
 Bridge](https://en.wikipedia.org/wiki/Beringia) from Siberia and
-moved south through an ice-free corridor into the central U.S., thus
-becoming the first inhabitants of North America, approximately 12,800
-years ago. (See also [Peopling of the
+moved south through an ice-free corridor into the central U.S.,
+approximately 12,800 years ago. (See also [Peopling of the
 Americas](https://en.wikipedia.org/wiki/Peopling_of_the_Americas).)
 
-Clovis culture pre-dates our modern concept of land ownership, thus
+Clovis culture pre-dates our modern-day concept of land ownership, so
 Clovis land could never have been legally ceded or given freely.
-Successor cultures simply appropriated Clovis land as their own.
 
-For example. All 574 federally recognized[^recognized] tribes in
-existence today (Cherokee, Choctaw, Sioux, Comanche, Chnook, Inuit,
-etc.) occupy land that was once the home of the Clovis people. This
-land, in turn, was subsequently appropriated by Spanish explorers,
-English settlers, and other European colonists.
+Today, all 574 federally recognized[^recognized] tribes (Cherokee,
+Choctaw, Sioux, Comanche, Chnook, Inuit, etc.) occupy land that was
+once the home of the Clovis people. This land, in turn, was
+subsequently appropriated by Spanish explorers, English settlers, and
+other European colonists.
 
-Given our present-day knowledge of Native American Nations, one may
-assume that past land appropriation and inadvertent culture-death was
-violent and unforgiving.
+Given what we know of human nature in general, and Native American
+Nations in particular, it's safe to assume that the land
+appropriation from the Clovis people (15,000 years ago) to modern
+tribes (even prior to European colonization, circa 1492), was was
+likely violent and unforgiving.
 
  * Violence between Native American tribes took many forms.[^violence]
 
@@ -76,40 +70,36 @@ manage relations.[^peace]
 
 # Indigenous virtue signaling
 
-In an evolutionary sense, all humans originally came from Africa,
-200,000--300,000 years ago.
+In general use, "indigenous" means first, but it can also refer to
+people, plants, or animals that originate from and have a
+long-standing connection to a specific place. Other terms used
+include "Native" and "First Nations."
 
-However, we _can_ distinguish communities that existed autonomously,
-before outsiders arrived (for example, the 574 federally recognized
-tribes), all with their own social, political, and economic systems.
+So maybe acknowledging Clovis is going too far.
 
-Unfortunately, many of the 'land acknowledgements' given to promote
-public awareness of Native sovereignty and cultural rights sound more
-like [virtue
-signaling](https://en.wikipedia.org/wiki/Virtue_signalling) than
-consciousness raising; especially given that Native American tribes
-engaged in warfare, territorial expansion, and the displacement of
-other Indigenous groups long before and alongside European
-colonization.[^warfare]
+But the question remains: How far back _do_ we go when
+acknowledging "public consciousness of Native sovereignty and
+cultural rights"?
 
-Which is to say: In some cases, current Native lands were originally
-the unceded or ancestral lands of other tribes, reflecting a complex
-history of intertribal conflict, migration, displacement, and
-adaptation that predates European colonization.[^predated]
+Many Native American nations are Indigenous (in the
+not-necessarily-the-first sense) to North America, but some of these
+tribes displaced other Indigenous groups, even before European
+colonization.[^displaced] [^warfare]
+
+So mostly it seems, we're [virtue
+signaling](https://en.wikipedia.org/wiki/Virtue_signalling). We're
+better.
+
+We're better because we're shaming ourselves for occupying unceded
+land that was appropriated and occupied by a prior tribe that
+occupied unceded land that was also likely appropriated and occupied
+by a _prior_ prior tribe that occupied unceded land; and so on and so
+forth, all the way back to the Clovis people, who's distant ancestors
+ultimately originated in Africa.[^c1] [^c2]
 
 
-## Brief Timeline of Peoples in North America
 
-| Time Period                    | Culture / People                             | Key Traits / Notes                                                                 |
-|-------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------|
-| ~13,500–12,800 years ago      | **Clovis Culture**                            | First widespread culture in North America; big-game hunters; fluted spear points. |
-| ~12,800–11,000 years ago      | **[Folsom Culture](https://en.wikipedia.org/wiki/Folsom_tradition)**                            | Post-megafauna bison hunters; more refined fluted tools.                          |
-| ~10,000–8,000 years ago       | **Plano and Related Paleoindian Cultures**    | Unfluted projectile points; diversified hunting and gathering.                    |
-| ~8,000–1,000 BCE              | **Archaic Period Peoples**                    | Semi-permanent settlements; plant use; early pottery and trade.                   |
-| ~1,000 BCE–1600 CE            | **Woodland, Mississippian, Puebloan, etc.**   | Farming societies; mounds; cities like Cahokia; complex political systems.        |
-| ~1000–1600 CE                 | **Late Prehistoric Cultures**                 | Use of bows; intensified agriculture; larger communities.                         |
-| 1600s–1800s                   | **Historic Native American Tribes**           | Contact with Europeans; trade, disease, conflict, and adaptation.                 |
-| 1800s–Today                   | **Modern Native American Nations**            | Legally recognized tribes; cultural renewal; sovereignty movements.               |
+
 
 [^recognized]: https://www.usa.gov/tribes
 
@@ -135,3 +125,16 @@ adaptation that predates European colonization.[^predated]
 
 
 [^predated]: Calloway, Colin G. *First Peoples: A Documentary Survey of American Indian History*. Bedford/St. Martin’s, 2018. This comprehensive history explores Indigenous migrations, intertribal warfare, and shifting territorial control prior to and during European colonization.
+
+[^debated]: This is now debated. There were probably others before Clovis. See https://bigthink.com/the-past/ice-free-corridor-clovis-americas/.
+
+[^displaced]: Richter, Daniel K. *Facing East from Indian Country: A
+Native History of Early America*. Harvard University Press, 2001.
+Richter discusses the dynamic history of Native groups, including
+migration, conflict, and the displacement of other Indigenous peoples
+prior to European contact.
+
+[^c1]: Stringer, Chris. *Out of Africa: What the Fossil Record Says*. Scientific American, July 2003. This article explains the widely accepted "Out of Africa" theory of human evolution and migration.
+
+[^c2]: Waters, Michael R., and Thomas W. Stafford Jr. "Redefining the Age of Clovis: Implications for the Peopling of the Americas." *Science*, vol. 315, no. 5815, 2007, pp. 1122–1126. DOI:10.1126/science.1137166. This paper provides archaeological evidence for the age and spread of the Clovis culture in North America.
+
