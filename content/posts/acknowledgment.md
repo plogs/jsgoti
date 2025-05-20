@@ -46,7 +46,7 @@ other European colonists.
 Given what we know of human nature in general, and Native American
 Nations in particular, it's safe to assume that the land
 appropriation from the Clovis people (15,000 years ago) to modern
-tribes (even prior to European colonization, circa 1492), was was
+tribes (even prior to European colonization, circa 1492), was
 likely violent and unforgiving.
 
  * Violence between Native American tribes took many forms.[^violence]
