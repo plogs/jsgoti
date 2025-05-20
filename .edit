@@ -2,7 +2,6 @@
 clear
 tmpfile=/tmp/edit.tmp
 
-
 test -d content || {
     echo "Error: no 'content' directory found"
     exit 1
@@ -20,10 +19,16 @@ done > $tmpfile
 
 cat $tmpfile
 
+num=$1
+
 echo
 echo -n "Edit #: "
 
-read num
+if test "$num" = ""
+then
+    read num
+fi
+
 test "$num" = "" || {
     exec vim $(awk "/^${num}/ {print \$2}" $tmpfile)
 }

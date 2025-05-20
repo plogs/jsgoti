@@ -45,15 +45,15 @@ Clovis culture pre-dates our modern concept of land ownership, thus
 Clovis land could never have been legally ceded or given freely.
 Successor cultures simply appropriated Clovis land as their own.
 
-For example. All 574 federally recognized tribes[^recognized] still
-in existence today (e.g, Cherokee, Choctaw, Sioux, Comanche, Chnook,
-Inuit) occupy land once home only to the Clovis people. This land, in
-turn, was appropriated by Spanish explorers, English settlers, and
-other European colonists.
+For example. All 574 federally recognized[^recognized] tribes in
+existence today (Cherokee, Choctaw, Sioux, Comanche, Chnook, Inuit,
+etc.) occupy land that was once the home of the Clovis people. This
+land, in turn, was subsequently appropriated by Spanish explorers,
+English settlers, and other European colonists.
 
 Given our present-day knowledge of Native American Nations, one may
-assume that land appropriation and inadvertent culture death of the
-past was violent and unforgiving.
+assume that past land appropriation and inadvertent culture-death was
+violent and unforgiving.
 
  * Violence between Native American tribes took many forms.[^violence]
 
@@ -76,14 +76,12 @@ manage relations.[^peace]
 
 # Indigenous virtue signaling
 
-Modern humans evolved in Africa around 200,000--300,000 years ago.
-Technically, all humans are migrants. None are indigenous.
+In an evolutionary sense, all humans originally came from Africa,
+200,000--300,000 years ago.
 
-However, we _can_ distinguish communities that existed autonomously
-(e.g., the 574 federally recognized tribes still in existence today),
-with their own social, political, and economic systems, before
-outsiders arrived.
-
+However, we _can_ distinguish communities that existed autonomously,
+before outsiders arrived (for example, the 574 federally recognized
+tribes), all with their own social, political, and economic systems.
 
 Unfortunately, many of the 'land acknowledgements' given to promote
 public awareness of Native sovereignty and cultural rights sound more
@@ -93,6 +91,11 @@ consciousness raising; especially given that Native American tribes
 engaged in warfare, territorial expansion, and the displacement of
 other Indigenous groups long before and alongside European
 colonization.[^warfare]
+
+Which is to say: In some cases, current Native lands were originally
+the unceded or ancestral lands of other tribes, reflecting a complex
+history of intertribal conflict, migration, displacement, and
+adaptation that predates European colonization.[^predated]
 
 
 ## Brief Timeline of Peoples in North America
@@ -129,3 +132,6 @@ colonization.[^warfare]
 
 
 [^warfare]: Richter, Daniel K. *Facing East from Indian Country: A Native History of Early America*. Harvard University Press, 2001. This book provides a scholarly overview of intertribal relations, Indigenous diplomacy, warfare, and responses to European colonization.
+
+
+[^predated]: Calloway, Colin G. *First Peoples: A Documentary Survey of American Indian History*. Bedford/St. Martin’s, 2018. This comprehensive history explores Indigenous migrations, intertribal warfare, and shifting territorial control prior to and during European colonization.
