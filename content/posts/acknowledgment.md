@@ -4,8 +4,13 @@ date: 2025-05-17T17:25:41-07:00
 draft: false
 ---
 
+<center>
+  <a href='https://en.wikipedia.org/wiki/File:A_scalp_dance.jpg'><img src='/images/scalp_dance.png' style='max-width: 60%;
+    height: auto; display: block;' alt="Scalp Dance"></a>
+</center>
 
-In many organizations and events it's now fashionable to begin with
+
+In many organizations or events it's now fashionable to begin with
 an _indigenous land acknowledgment_, usually something along these
 lines:
 
@@ -64,6 +69,7 @@ likely violent and unforgiving.
  * Raiding was sometimes a way of life, targeting rival tribes or
    agricultural villages.[^raiding]
 
+
 Not all was violence, of course. Many tribes maintained long-standing
 peace with neighbors and used diplomacy, intermarriage, and trade to
 manage relations.[^peace]
@@ -81,7 +87,7 @@ But the question remains: How far back _do_ we go when
 acknowledging "public consciousness of Native sovereignty and
 cultural rights"?
 
-Many Native American nations are Indigenous (in the
+Many Native American nations today are Indigenous (in the
 not-necessarily-the-first sense) to North America, but some of these
 tribes displaced other Indigenous groups, even before European
 colonization.[^displaced] [^warfare]
@@ -137,4 +143,5 @@ prior to European contact.
 [^c1]: Stringer, Chris. *Out of Africa: What the Fossil Record Says*. Scientific American, July 2003. This article explains the widely accepted "Out of Africa" theory of human evolution and migration.
 
 [^c2]: Waters, Michael R., and Thomas W. Stafford Jr. "Redefining the Age of Clovis: Implications for the Peopling of the Americas." *Science*, vol. 315, no. 5815, 2007, pp. 1122–1126. DOI:10.1126/science.1137166. This paper provides archaeological evidence for the age and spread of the Clovis culture in North America.
+
 
