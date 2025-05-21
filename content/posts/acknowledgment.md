@@ -76,7 +76,7 @@ Not all was violence, of course. Many tribes maintained long-standing
 peace with neighbors and used diplomacy, intermarriage, and trade to
 manage relations. [^peace]
 
-# Indigenous virtue signaling
+# Virtue signaling
 
 Most of the time "indigenous" means first, but it can also refer to
 people, plants, or animals that originate from, or have a
@@ -105,7 +105,7 @@ tribe that managed to occupy unceded land from a prior indigenous
 tribe, who managed to occupy ancestral and unceded territory from a
 _prior_ prior tribe or nation; and so on and so forth, all the way
 back to the Clovis people, who's distant ancestors ultimately
-originated in Africa. [^c1] [^c2]
+came from Africa. [^c1] [^c2]
 
 
 

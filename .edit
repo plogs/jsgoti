@@ -27,10 +27,16 @@ echo -n "Edit #: "
 if test "$num" = ""
 then
     read num
+else
+    echo
 fi
 
 test "$num" = "" || {
-    exec vim $(awk "/^${num}/ {print \$2}" $tmpfile)
+    fn=$(awk "/^${num}/ {print \$2}" $tmpfile)
+    rm -f $tmpfile
+    exec vim $fn
+
+    # exec vim $(awk "/^${num}/ {print \$2}" $tmpfile)
 }
 
 rm -f $tmpfile
