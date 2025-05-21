@@ -83,7 +83,7 @@ people, plants, or animals that originate from, or have a
 long-standing connection to, a specific place. Other terms used
 include "Native" and "First Nations."
 
-So maybe acknowledging Clovis is going too far back.
+So maybe acknowledging Clovis is going back too far.
 
 And yet the question remains: How far back _do_ we go when
 acknowledging "public consciousness of Native sovereignty and
