@@ -83,9 +83,9 @@ people, plants, or animals that originate from, or have a
 long-standing connection to, a specific place. Other terms used
 include "Native" and "First Nations."
 
-So maybe acknowledging Clovis is going back too far.
+So maybe acknowledging Clovis is going too far back.
 
-But the question remains: How far back _do_ we go when
+And yet the question remains: How far back _do_ we go when
 acknowledging "public consciousness of Native sovereignty and
 cultural rights"?
 
@@ -98,7 +98,7 @@ So mostly it seems, we're [virtue
 signaling](https://en.wikipedia.org/wiki/Virtue_signalling).
 We're saying our culture is better.
 
-Our culture is better as evidenced by land acknowledgment
+Our culture is better as evidenced by our land acknowledgment
 grovelling. We acknowledge our occupation of unceded
 land that was unceremoniously appropriated from an indigenous tribe
 that managed to occupy unceded land from a prior indigenous tribe,
