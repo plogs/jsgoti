@@ -98,8 +98,8 @@ So mostly it seems, we're [virtue
 signaling](https://en.wikipedia.org/wiki/Virtue_signalling).
 We're saying our culture is better.
 
-Our culture is better as evidenced by our land acknowledgment
-grovelling. We acknowledge our occupation of unceded
+Our culture is better as evidenced by our self-shaming
+groveling. We acknowledge our occupation of unceded
 land that was unceremoniously appropriated from an indigenous tribe
 that managed to occupy unceded land from a prior indigenous tribe,
 who managed to occupy ancestral and unceded territory from a _prior_
