@@ -24,7 +24,7 @@ People."
 
 The ostensible goal of these acknowledgments is to promote a "greater
 public consciousness of Native sovereignty and cultural
-rights."[^neefusa]
+rights." [^neefusa]
 
 But strangely, these acknowledgments seem always a bit myopic. If
 we're going to acknowledge ancestral and unceded territory of
@@ -33,7 +33,7 @@ back do we look? To the
 [Clovis
 People](https://en.wikipedia.org/wiki/Clovis_culture)?
 
-Clovis refers to the earliest[^debated] known prehistoric
+Clovis refers to the earliest [^debated] known prehistoric
 Native American culture. One theory is that the
 Clovis people crossed the [Bering Land
 Bridge](https://en.wikipedia.org/wiki/Beringia) from Siberia and
@@ -44,68 +44,68 @@ Americas](https://en.wikipedia.org/wiki/Peopling_of_the_Americas).)
 Clovis culture pre-dates our modern-day concept of land ownership, so
 Clovis land could never have been legally ceded or given freely.
 
-Today, all 574 federally recognized[^recognized] tribes (Cherokee,
+Today, the 574 federally recognized [^recognized] tribes (Cherokee,
 Choctaw, Sioux, Comanche, Chnook, Inuit, etc.) occupy land that was
 once the home of the Clovis people. This land, in turn, was
 subsequently appropriated by Spanish explorers, English settlers, and
 other European colonists.
 
 Given what we know of human nature in general, and Native American
-Nations in particular, it's safe to assume that the land
-appropriation from the Clovis people (15,000 years ago) to modern
-tribes (even prior to European colonization, circa 1492), was
-likely violent and unforgiving.
+populations in particular, it seems safe to assume that land
+appropriation throughout history (from the Clovis culture thousands
+of years ago to modern tribes today -- even prior to European
+colonization, circa 1492), was likely violent and unforgiving.
 
- * Violence between Native American tribes took many forms.[^violence]
+ * Violence between Native American tribes took many forms. [^violence]
 
  * War captives were executed in ritual ways, sometimes involving
-   torture, as a form of spiritual justice or communal healing.[^war]
+   torture, as a form of spiritual justice or communal healing. [^war]
 
  * Indigenous slavery existed in some regions even before European
-   contact.[^slavery]
+   contact. [^slavery]
 
  * Scalping occurred both before and after European contact, though
    colonial powers (like the British and French) later encouraged it
    with bounties.[^scalping] [^scalp1] [^scalp2] [^scalp3] [^scalp4]
 
  * Raiding was sometimes a way of life, targeting rival tribes or
-   agricultural villages.[^raiding]
+   agricultural villages. [^raiding]
 
 
 Not all was violence, of course. Many tribes maintained long-standing
 peace with neighbors and used diplomacy, intermarriage, and trade to
-manage relations.[^peace]
+manage relations. [^peace]
 
 # Indigenous virtue signaling
 
-In general, "indigenous" means first, but it can also refer to
-people, plants, or animals that originate from and have a
-long-standing connection to a specific place. Other terms used
+Most of the time "indigenous" means first, but it can also refer to
+people, plants, or animals that originate from, or have a
+long-standing connection to, a specific place. Other terms used
 include "Native" and "First Nations."
 
-So maybe acknowledging Clovis is going too far.
+So maybe acknowledging Clovis is going back too far.
 
 But the question remains: How far back _do_ we go when
 acknowledging "public consciousness of Native sovereignty and
 cultural rights"?
 
-Many Native American nations today are indigenous to North America,
-but some of these modern-day nations displaced _other_ Indigenous
-tribes, even before European colonization.[^displaced] [^warfare]
+Native American nations today are indigenous to North America in the
+First Nations use of "indigenous." Undoubtedly some of these Native
+American nations displaced _other_ Indigenous nations, even before
+European colonization. [^displaced] [^warfare]
 
 So mostly it seems, we're [virtue
-signaling](https://en.wikipedia.org/wiki/Virtue_signalling). We're
-saying our culture is better.
+signaling](https://en.wikipedia.org/wiki/Virtue_signalling).
+Our culture is better.
 
-We're better because we must be, as evidenced by our self-shaming
-acknowledgement that we occupy unceded land appropriated and occupied
-by a prior tribe, that occupied unceded and appropriated land by a
-prior prior tribe, that was occupied land appropriated by a _prior_
-prior prior tribe, that occupied unceded land; and so on and so forth,
-all the way back to the Clovis people, who's distant ancestors
-ultimately originated in Africa.[^c1] [^c2]
-
-
+Our culture is better because we self-shame ourselves with land
+acknowledgments. Which is to say, we acknowledge our occupation of
+unceded land that was unceremoniously appropriated from an indigenous
+tribe that managed to occupy unceded land from a prior indigenous
+tribe, who managed to occupy ancestral and unceded territory from a
+_prior_ prior tribe or nation; and so on and so forth, all the way
+back to the Clovis people, who's distant ancestors ultimately
+originated in Africa. [^c1] [^c2]
 
 
 
