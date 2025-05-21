@@ -89,23 +89,23 @@ But the question remains: How far back _do_ we go when
 acknowledging "public consciousness of Native sovereignty and
 cultural rights"?
 
-Native American nations today are indigenous to North America in the
-First Nations use of "indigenous." Undoubtedly some of these Native
-American nations displaced _other_ Indigenous nations, even before
+Native American nations today are "indigenous" to North America as
+First Nations. Undoubtedly some of these First Nations
+displaced _other_ Indigenous nations, even before
 European colonization. [^displaced] [^warfare]
 
 So mostly it seems, we're [virtue
 signaling](https://en.wikipedia.org/wiki/Virtue_signalling).
-Our culture is better.
+We're saying our culture is better.
 
-Our culture is better because we self-shame ourselves with land
-acknowledgments. Which is to say, we acknowledge our occupation of
-unceded land that was unceremoniously appropriated from an indigenous
-tribe that managed to occupy unceded land from a prior indigenous
-tribe, who managed to occupy ancestral and unceded territory from a
-_prior_ prior tribe or nation; and so on and so forth, all the way
-back to the Clovis people, who's distant ancestors ultimately
-came from Africa. [^c1] [^c2]
+Our culture is better as evidenced by land acknowledgment
+grovelling. We acknowledge our occupation of unceded
+land that was unceremoniously appropriated from an indigenous tribe
+that managed to occupy unceded land from a prior indigenous tribe,
+who managed to occupy ancestral and unceded territory from a _prior_
+prior tribe or nation; and so on and so forth, all the way back to
+the Clovis people, who's distant ancestors ultimately came from
+Africa. [^c1] [^c2]
 
 
 
