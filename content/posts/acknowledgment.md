@@ -1,16 +1,18 @@
 ---
-title: "Indigenous Land Acknowledgment"
+title: "Land Acknowledgment"
 date: 2025-05-17T17:25:41-07:00
 draft: false
 ---
 
+
 <center>
-  <a href='https://en.wikipedia.org/wiki/File:A_scalp_dance.jpg'><img src='/images/scalp_dance.png' style='max-width: 60%;
+  <a href='https://en.wikipedia.org/wiki/File:A_scalp_dance.jpg'><img src='/images/scalp_dance.png' style='max-width: 90%;
     height: auto; display: block;' alt="Scalp Dance"></a>
+  <p style='opacity: 50%; margin-top: -2em; font-size: 80%;'><em>A scalp dance</em></p>
 </center>
 
-
-In many organizations or events it's now fashionable to begin with
+At the beginning of many events
+it's now fashionable to begin with
 an _indigenous land acknowledgment_, usually something along these
 lines:
 
@@ -64,7 +66,7 @@ likely violent and unforgiving.
 
  * Scalping occurred both before and after European contact, though
    colonial powers (like the British and French) later encouraged it
-   with bounties.[^scalping]
+   with bounties.[^scalping] [^scalp1] [^scalp2] [^scalp3] [^scalp4]
 
  * Raiding was sometimes a way of life, targeting rival tribes or
    agricultural villages.[^raiding]
@@ -76,7 +78,7 @@ manage relations.[^peace]
 
 # Indigenous virtue signaling
 
-In general use, "indigenous" means first, but it can also refer to
+In general, "indigenous" means first, but it can also refer to
 people, plants, or animals that originate from and have a
 long-standing connection to a specific place. Other terms used
 include "Native" and "First Nations."
@@ -87,20 +89,20 @@ But the question remains: How far back _do_ we go when
 acknowledging "public consciousness of Native sovereignty and
 cultural rights"?
 
-Many Native American nations today are Indigenous (in the
-not-necessarily-the-first sense) to North America, but some of these
-tribes displaced other Indigenous groups, even before European
-colonization.[^displaced] [^warfare]
+Many Native American nations today are indigenous to North America,
+but some of these modern-day nations displaced _other_ Indigenous
+tribes, even before European colonization.[^displaced] [^warfare]
 
 So mostly it seems, we're [virtue
 signaling](https://en.wikipedia.org/wiki/Virtue_signalling). We're
-better.
+saying our culture is better.
 
-We're better because we're shaming ourselves for occupying unceded
-land that was appropriated and occupied by a prior tribe that
-occupied unceded land that was also likely appropriated and occupied
-by a _prior_ prior tribe that occupied unceded land; and so on and so
-forth, all the way back to the Clovis people, who's distant ancestors
+We're better because we must be, as evidenced by our self-shaming
+acknowledgement that we occupy unceded land appropriated and occupied
+by a prior tribe, that occupied unceded and appropriated land by a
+prior prior tribe, that was occupied land appropriated by a _prior_
+prior prior tribe, that occupied unceded land; and so on and so forth,
+all the way back to the Clovis people, who's distant ancestors
 ultimately originated in Africa.[^c1] [^c2]
 
 
@@ -144,4 +146,10 @@ prior to European contact.
 
 [^c2]: Waters, Michael R., and Thomas W. Stafford Jr. "Redefining the Age of Clovis: Implications for the Peopling of the Americas." *Science*, vol. 315, no. 5815, 2007, pp. 1122–1126. DOI:10.1126/science.1137166. This paper provides archaeological evidence for the age and spread of the Clovis culture in North America.
 
+
+
+[^scalp1]: Kehoe, Alice B. *North American Indians: A Comprehensive Account*. 3rd ed., Pearson, 2005, pp. 236–238.
+[^scalp2]: Brown, Joseph Epes. *The Spiritual Legacy of the American Indian*. Crossroad, 1982.
+[^scalp3]: Calloway, Colin G. *First Peoples: A Documentary Survey of American Indian History*. 6th ed., Bedford/St. Martin’s, 2019, pp. 122–125.
+[^scalp4]: Densmore, Frances. *Teton Sioux Music and Culture*. Originally published 1918. Reprint, University of Nebraska Press, 1992, pp. 107–110.
 
