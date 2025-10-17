@@ -1,5 +1,5 @@
 ---
-title: "Land Acknowledgment"
+title: "Land Acknowledgments"
 date: 2025-05-17T17:25:41-07:00
 draft: false
 ---
@@ -18,20 +18,20 @@ lines:
 
 <div style='margin-left: .5em; margin-right: .5em; padding: 1em; background-color: #ffcc99; font-family: monospace;'>
 "We would like to begin by acknowledging that we are in
-___________, the ancestral and unceded territory of the ________
-People."
+[insert PLACE NAME], the ancestral and unceded territory of the
+[so-and-so] people."
 </div>
 
 The ostensible goal of these acknowledgments is to promote a "greater
 public consciousness of Native sovereignty and cultural
 rights." [^neefusa]
 
-But strangely, these acknowledgments seem always a bit myopic. If
-we're going to acknowledge ancestral and unceded territory of
-modern-day North America, how far
-back do we look? To the 
-[Clovis
-People](https://en.wikipedia.org/wiki/Clovis_culture)?
+But strangely, these acknowledgments always seem a bit short-sighted,
+given that they only acknowledge the previous land occupants. Not the
+ones before them, or the ones before them, and so on, all the way
+back to the [Clovis
+People](https://en.wikipedia.org/wiki/Clovis_culture), the first
+settlers of North America.
 
 Clovis refers to the earliest [^debated] known prehistoric
 Native American culture. One theory is that the
@@ -51,10 +51,11 @@ subsequently appropriated by Spanish explorers, English settlers, and
 other European colonists.
 
 Given what we know of human nature in general, and Native American
-populations in particular, it seems safe to assume that land
-appropriation throughout history (from the Clovis culture thousands
-of years ago to modern tribes today -- even prior to European
-colonization, circa 1492), was likely violent and unforgiving.
+populations in particular, it seems safe to assume that
+`land appropriation' throughout history (from the Clovis culture
+thousands of years ago to modern tribes today -- even prior to
+European colonization, circa 1492), was likely violent and
+unforgiving.
 
  * Violence between Native American tribes took many forms. [^violence]
 
@@ -76,8 +77,6 @@ Not all was violence, of course. Many tribes maintained long-standing
 peace with neighbors and used diplomacy, intermarriage, and trade to
 manage relations. [^peace]
 
-# Virtue signaling
-
 Most of the time "indigenous" means first, but it can also refer to
 people, plants, or animals that originate from, or have a
 long-standing connection to, a specific place. Other terms used
@@ -94,18 +93,21 @@ First Nations. Undoubtedly some of these First Nations
 displaced _other_ Indigenous nations, even before
 European colonization. [^displaced] [^warfare]
 
-So mostly it seems, we're [virtue
-signaling](https://en.wikipedia.org/wiki/Virtue_signalling).
-Our culture is better.
+# Virtue signaling
 
-Our culture is better because we're willing to shame ourselves by
-drawing attention to our occupation of unceded land that was
-unceremoniously appropriated from an indigenous tribe that managed to
-occupy unceded land from a prior indigenous tribe, who managed to
-occupy ancestral and unceded territory from a _prior_ prior tribe or
-nation; and so on and so forth, all the way back to the Clovis
-people, who's distant ancestors ultimately came from Africa. [^c1]
-[^c2]
+So land acknowledgments are really just [virtue
+signaling](https://en.wikipedia.org/wiki/Virtue_signalling). We're
+implying that our invading culture is somehow better than all of the
+previous invading cultures.
+
+
+It's better because we're willing to shame ourselves by drawing
+attention to our occupation of unceded land that was unceremoniously
+appropriated from an indigenous tribe that managed to occupy unceded
+land from a prior indigenous tribe, who managed to occupy ancestral
+and unceded territory from a previous prior tribe or nation; and so on
+and so forth, all the way back to the Clovis people, who's distant
+ancestors ultimately came from Africa. [^c1] [^c2]
 
 
 
